@@ -1,4 +1,4 @@
-# YouTube-Scrapping              <img src="https://github.com/m0-k1/YouTube-Scrapping/blob/master/image/yt_1200.jpeg" width="100">
+# YouTube-Scrapping              <img src="https://github.com/m0-k1/YouTube-Scrapping/blob/master/image/yt_1200.jpg" width="100">
 
  In this repository, I have showcased my scrapping ability by scarpping [YouTube](www.youtube.com).
  
