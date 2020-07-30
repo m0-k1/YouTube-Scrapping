@@ -12,7 +12,7 @@
 * A tip for those who want to scrap sites like YouTube -
           
         Scrapping comments section will take a really long time if there are many comments. Be careful while scrapping those.    
-        Always save your progress time to time as no one wants to start all over again, especially when you are playing a video game.
+        Always save your progress time to time as no one wants to start all over again, especially when you are playing a video game
 
 Finally, I have made a dataset of 500+ links with the above data is uploaded in this repository. Do check it out!!:sunglasses: 
 
