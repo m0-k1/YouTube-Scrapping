@@ -16,7 +16,7 @@
 
 Finally, I have made a dataset of 500+ links with the above data is uploaded in this repository. Do check it out!!:sunglasses: 
 
-## Authors :open_book:
+## Author :open_book:
 
 * **Mohit Kundu**  - [Github](https://github.com/m0-k1)
                      - [Linkedin](https://www.linkedin.com/in/mohit-kundu)
