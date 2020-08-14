@@ -5,7 +5,7 @@
  ## Approach Used - : :thinking:
  
 * First I collected more than 500 links from youtube search page. Used Selenium for automation process. 
-* Saved the links in a seperate file. Saving up the links will allow one not to collect links over and over again. :nerd_face:
+* Saved the links in a seperate file. Saving up the links will allow one not to collect links over and over again.
 * Then searched through each link and extracted the following - Video Title, Video Views, Uploading Date, Likes on that video, Dislikes on the video and Comments.
 * Coverted the data into a DataFrame and Saved the result in csv format. 
 * Being this a scrapper, care has been taken if there are connection problems and will save up the data collected prior to the connection problem or other problems.
